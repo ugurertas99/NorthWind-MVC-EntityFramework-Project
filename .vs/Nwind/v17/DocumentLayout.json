@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\nwind.data\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|solutionrelative:nwind.data\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\nwind.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|solutionrelative:nwind.data\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\nwind.data\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|solutionrelative:nwind.data\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\nwind.data\\migrations\\202504271634324_ugur11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|solutionrelative:nwind.data\\migrations\\202504271634324_ugur11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\nwind.data\\migrations\\202504271629247_ugur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|solutionrelative:nwind.data\\migrations\\202504271629247_ugur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|c:\\users\\songule3423\\desktop\\nwind.admin\\nwind.data\\model\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|solutionrelative:nwind.data\\model\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\nwind.data\\model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|solutionrelative:nwind.data\\model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\nwind.data\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|solutionrelative:nwind.data\\model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\nwind.data\\migrations\\202504271631336_ugur1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C26C6B-BA18-4C82-83E5-C6FB7576915A}|Nwind.Data\\Nwind.Data.csproj|solutionrelative:nwind.data\\migrations\\202504271631336_ugur1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202504271634324_ugur11.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Migrations\\202504271634324_ugur11.cs",
+              "RelativeDocumentMoniker": "Nwind.Data\\Migrations\\202504271634324_ugur11.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Migrations\\202504271634324_ugur11.cs",
+              "RelativeToolTip": "Nwind.Data\\Migrations\\202504271634324_ugur11.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:34:38.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202504271629247_ugur.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Migrations\\202504271629247_ugur.cs",
+              "RelativeDocumentMoniker": "Nwind.Data\\Migrations\\202504271629247_ugur.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Migrations\\202504271629247_ugur.cs",
+              "RelativeToolTip": "Nwind.Data\\Migrations\\202504271629247_ugur.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:29:39.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Nwind.Data\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Nwind.Data\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:29:00.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\App.config",
+              "RelativeDocumentMoniker": "Nwind.Data\\App.config",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\App.config",
+              "RelativeToolTip": "Nwind.Data\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-27T16:26:44.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Model\\Customers.cs",
+              "RelativeDocumentMoniker": "Nwind.Data\\Model\\Customers.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Model\\Customers.cs",
+              "RelativeToolTip": "Nwind.Data\\Model\\Customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:16:46.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "Nwind.Data\\Context\\DataContext.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Context\\DataContext.cs",
+              "RelativeToolTip": "Nwind.Data\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:14:56.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Model\\Orders.cs",
+              "RelativeDocumentMoniker": "Nwind.Data\\Model\\Orders.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Model\\Orders.cs",
+              "RelativeToolTip": "Nwind.Data\\Model\\Orders.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:17:03.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202504271631336_ugur1.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Migrations\\202504271631336_ugur1.cs",
+              "RelativeDocumentMoniker": "Nwind.Data\\Migrations\\202504271631336_ugur1.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Migrations\\202504271631336_ugur1.cs",
+              "RelativeToolTip": "Nwind.Data\\Migrations\\202504271631336_ugur1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:35:55.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Model\\Products.cs",
+              "RelativeDocumentMoniker": "Nwind.Data\\Model\\Products.cs",
+              "ToolTip": "C:\\Users\\songule3423\\Desktop\\Nwind.Admin\\Nwind.Data\\Model\\Products.cs",
+              "RelativeToolTip": "Nwind.Data\\Model\\Products.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:38:47.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

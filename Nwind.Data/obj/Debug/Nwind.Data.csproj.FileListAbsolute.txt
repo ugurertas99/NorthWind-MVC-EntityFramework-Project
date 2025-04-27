@@ -1,0 +1,16 @@
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\bin\Debug\Nwind.Data.dll.config
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\bin\Debug\Nwind.Data.dll
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\bin\Debug\Nwind.Data.pdb
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\bin\Debug\EntityFramework.dll
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\bin\Debug\EntityFramework.xml
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\obj\Debug\Nwind.Data.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\obj\Debug\Nwind.Data.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\obj\Debug\Nwind.Data.csproj.Up2Date
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\obj\Debug\Nwind.Data.dll
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\obj\Debug\Nwind.Data.pdb
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\obj\Debug\Nwind.Data.Migrations.ugur.resources
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\obj\Debug\Nwind.Data.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\obj\Debug\Nwind.Data.Migrations.ugur1.resources
+C:\Users\ARIBILGI\source\repos\Nwind.Admin\Nwind.Data\obj\Debug\Nwind.Data.Migrations.ugur11.resources
