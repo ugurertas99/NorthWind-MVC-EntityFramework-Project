@@ -1,2 +1,2 @@
-# NorthWind MVC EntityFramework Project
+# NorthWind ASP.NET MVC EntityFramework Project
  
